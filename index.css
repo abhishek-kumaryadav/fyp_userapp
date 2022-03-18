@@ -1,0 +1,16 @@
+html {
+	position: relative;
+	min-height: 100%;
+	overflow-y: scroll;
+}
+body{
+    width: 100%;
+}
+.containerr{
+    max-width: 100%;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+input{
+    margin-bottom: 10px;
+}
